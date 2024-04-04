@@ -1,0 +1,2 @@
+# studynote
+JUST FOR STUDY
