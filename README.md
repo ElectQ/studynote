@@ -7,7 +7,7 @@ JUST FOR STUDY
 https://github.com/appveyor/build-images/tree/master/scripts/Windows
 
 
-# Windows Server Avaticve
+# Windows Server Avative
 DISM /online /Get-CurrentEdition
 
 DISM /online /Set-Edition:ServerDatacenter /ProductKey:xxxxxx(version from https://github.com/netnr/kms) /AcceptEula
